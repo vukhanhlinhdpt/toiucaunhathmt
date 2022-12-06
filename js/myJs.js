@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text1: "Chin chào baby của tớ!",
+  text2: "Tớ hỏi cậu cái này cậu phải trả lời thật nhé, hong thì tớ đánh đít cậu. Nhớ click đến cuối có quà nhaaa",
+  text3: "Cậu có muốn yêu tớ mãi mãi về sau honggg ._.",
+  text4: "Cậu mà thoát ra thì cậu hết quà, tớ hong chơi với cậu 1 ngày hứ",
+  text5: "Hong thèmmmm",
+  text6: "Tớ có tớ iu cậu nhất trên đời <3",
+  text7: "Ỏoooo z hảaaa thế tại sao cậu iu tớ z?",
+  text8: "Ấn vào đây nèeee",
+  text9: "Vì cậu cute cậu giỏi cậu xinh má cậu béo béo đáng iuuuu",
+  text10: "Chòy ngại z chòy, tớ cảm ơn cậu nhìu lắmmm",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+    "Tớ yêu cậu siêu nhiều ý, tớ mãi mãi yêu cậu. Cảm ơn cậu vì đã luôn bên cạnh tớ, và tớ cũng sẽ kbh bỏ cậu 1 mình đâu, nhớ nhéeee. À phần quà của cậu là tình iu to đùng và sự đồng hành của tớ trong chặng đường sắp tới nhéeee. Love you Apollo!!!",
+  text12: "Okie bé tí của tớ nhaa",
 };
 
 $(document).ready(function () {
