@@ -8,7 +8,7 @@ const textConfig = {
   text7: "Ỏoooo z hảaaa thế tại sao cậu iu tớ z?",
   text8: "Ấn vào đây nèeee",
   text9: "Vì cậu cute cậu giỏi cậu xinh má cậu béo béo đáng iuuuu",
-  text10: "Chòy ngại z chòy, tớ cảm ơn cậu nhìu lắmmm",
+  text10: "Chòy ngại z chòy, tớ cảm ơn cậu nhìu lắmmmm",
   text11:
     "Tớ yêu cậu siêu nhiều ý, tớ mãi mãi yêu cậu. Cảm ơn cậu vì đã luôn bên cạnh tớ, và tớ cũng sẽ kbh bỏ cậu 1 mình đâu, nhớ nhéeee. À phần quà của cậu là tình iu to đùng và sự đồng hành của tớ trong chặng đường sắp tới nhéeee. Love you Apollo!!!",
   text12: "Okie bé tí của tớ nhaa",
